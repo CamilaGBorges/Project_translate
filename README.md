@@ -1,6 +1,6 @@
 *##Solução Completa de Tradução de Texto em Python com Azure Translator
 
-Tradutor de textos entre diferentes idiomas, aproveitando a inteligência artificial do serviço Azure Translator.
+Tradutor de textos entre diferentes idiomas, aproveitando a Inteligência artificial do serviço Azure Translator.
 1. Criar e Configurar o Recurso Azure Translator
 
 O primeiro passo é configurar o serviço de tradução no portal do Azure para obter as credenciais necessárias.
